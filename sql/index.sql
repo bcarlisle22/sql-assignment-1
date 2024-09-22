@@ -6,7 +6,7 @@ CREATE TABLE Books (
   Genre VARCHAR(255),
   PublishedYear int,
   Price FLOAT,
-  ISBN BIGINT,
+  ISBN BIGINT, --INTIAL "INT" WAS TOO SMALL FOR VALUES BEING INSERTED, RESULTING IN 1264 "OUT OF RANGE" ERROR
   PRIMARY KEY (BookID)
 );
 -- part 1.2 insert data into table
