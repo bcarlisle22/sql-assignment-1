@@ -1,4 +1,4 @@
-CREATING BOOKS Database
+Creating and Managing Database
 <hr>
 Graduate School Assignment
 
