@@ -3,3 +3,10 @@ Creating and Managing Database
 Graduate School Assignment
 
 ``SQL`` | ``MySQL`` 
+- DISTINCT
+- WHERE
+- ORDER BY
+- BETWEEN
+- IS NULL
+- IN
+- ALIAS
